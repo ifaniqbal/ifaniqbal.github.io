@@ -1,3 +1,19 @@
 module.exports = {
-  mode: 'jit'
+  mode: 'jit',
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
+  theme: {
+    extend: {
+      typography: {
+        DEFAULT: {
+          css: {
+            a: {
+              fontWeight: 700,
+            },
+          },
+        },
+      }
+    },
+  },
 }
