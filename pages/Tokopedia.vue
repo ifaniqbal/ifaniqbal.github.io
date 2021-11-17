@@ -1,3 +1,0 @@
-<template>
-	<HeaderTokped></HeaderTokped>
-</template>
