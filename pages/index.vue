@@ -14,7 +14,24 @@ export default {
   head() {
     return {
       title: this.content.title,
-      description: this.content.description,
+      meta: [
+        {
+          name: 'description',
+          content: this.content.description,
+        },
+        {
+          name: 'og:image',
+          content: '/ifan-iqbal.jpg',
+        },
+        {
+          name: 'og:title',
+          content: this.content.title,
+        },
+        {
+          name: 'og:description',
+          content: this.content.description,
+        },
+      ],
     }
   }
 }
