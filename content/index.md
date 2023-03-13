@@ -13,6 +13,8 @@ I'm software engineer, tech tutor, and remote worker.
 
 I share everything I know about making awesome software through [GitHub](https://github.com/ifaniqbal), [Twitter](https://twitter.com/ifaniqbal), and [Facebook](https://www.facebook.com/ifaniqbal).
 
-Currently, I work for Moladin as backend software engineer. Here is my [LinkedIn profile](https://www.linkedin.com/in/ifaniqbal/).
+As a senior software engineer with a strong background in backend and full-stack, I am currently exploring new opportunities for a senior software engineer role. I am passionate about delivering innovative solutions and driving team success, and I am eager to contribute my skills to a dynamic and challenging environment.
+
+If you are interested in connecting with me or discussing potential opportunities, please feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/ifaniqbal/). I am always open to exploring new professional connections and expanding my network. Thank you for your consideration!.
 
 Thank you.
